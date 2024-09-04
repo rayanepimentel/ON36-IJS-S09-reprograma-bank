@@ -17,6 +17,6 @@ Turma Online ON36 - Imersão JavaScript | Semana 09 | 2024 | Professora Rayane P
 
 ## Projeto
 
-Para as aulas, uilizei o projeto de base da professsora Laís. Você pode encontrar [aqui](https://github.com/reprograma/ON36-IJS-S05-reprograma-bank)
+Para as aulas, uilizei o projeto de base da professsora Laís. Você pode encontrar o original [aqui](https://github.com/reprograma/ON36-IJS-S05-reprograma-bank)
 
 
